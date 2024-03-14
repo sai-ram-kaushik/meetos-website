@@ -21,3 +21,43 @@ html {
     font-family: axiforma;
     src: url(./fonts/Kastelov\ \ Axiforma\ Black.otf);
 }
+
+@layer base {
+    body {
+        @apply bg-background text-primary font-bodyContent;
+    }
+
+    h1 {
+        @apply text-3xl lg:text-4xl xl:text-5xl font-heading font-bold;
+    }
+
+    h2 {
+        @apply text-2xl lg:text-3xl xl:text-4xl font-heading font-bold;
+    }
+
+    h3 {
+        @apply text-xl lg:text-2xl xl:text-3xl font-heading font-bold;
+    }
+
+    p {
+        @apply text-lg;
+    }
+
+    span {
+        @apply text-secondary;
+    }
+}
+
+::-webkit-scrollbar {
+    width: 0.5rem;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #000;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #00ffff;
+    border-radius: 1rem;
+    background-clip: content-box;
+}
