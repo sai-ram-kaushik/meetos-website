@@ -24,7 +24,7 @@ html {
 
 @layer base {
     body {
-        @apply bg-background text-primary font-bodyContent;
+        @apply bg-primary text-background font-bodyContent;
     }
 
     h1 {
@@ -49,7 +49,7 @@ html {
 }
 
 ::-webkit-scrollbar {
-    width: 0.5rem;
+    width: 0.2rem;
 }
 
 ::-webkit-scrollbar-track {
