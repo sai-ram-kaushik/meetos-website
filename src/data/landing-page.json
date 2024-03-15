@@ -6,9 +6,121 @@
         "image": "/src/assets/meeting.svg"
     },
 
-    "about": {
-        "title": "About MeetOs",
-        "content": "In our dynamic technical meetups, we provide a platform for like-minded individuals to converge, exchange ideas, and drive innovation forward. Through collaborative efforts and shared expertise, we aim to push the boundaries of technology and inspire transformative solutions. Join us as we explore cutting-edge developments, foster meaningful connections, and pave the way for a brighter technological future.",
-        "image": "/src/assets/about.svg"
+    "upcomingEvents": {
+        "title": "Upcoming Events",
+        "events": [
+            {
+                "label": "Delhi Founders, to have a BREAK and be FAST",
+                "hostedby": "Founders at Breakfast",
+                "date": "Sat, Mar 16",
+                "time": "9:00 AM IST",
+                "ticket": "free",
+                "image": "/src/assets/meet1.webp"
+            },
+
+            {
+                "label": "Delhi Founders, to have a BREAK and be FAST",
+                "hostedby": "Founders at Breakfast",
+                "date": "Sat, Mar 16",
+                "time": "9:00 AM IST",
+                "ticket": "free",
+                "image": "/src/assets/meet1.webp"
+            },
+
+            {
+                "label": "Delhi Founders, to have a BREAK and be FAST",
+                "hostedby": "Founders at Breakfast",
+                "date": "Sat, Mar 16",
+                "time": "9:00 AM IST",
+                "ticket": "free",
+                "image": "/src/assets/meet1.webp"
+            },
+
+            {
+                "label": "Delhi Founders, to have a BREAK and be FAST",
+                "hostedby": "Founders at Breakfast",
+                "date": "Sat, Mar 16",
+                "time": "9:00 AM IST",
+                "ticket": "free",
+                "image": "/src/assets/meet1.webp"
+            },
+
+            {
+                "label": "Delhi Founders, to have a BREAK and be FAST",
+                "hostedby": "Founders at Breakfast",
+                "date": "Sat, Mar 16",
+                "time": "9:00 AM IST",
+                "ticket": "free",
+                "image": "/src/assets/meet1.webp"
+            },
+
+            {
+                "label": "Delhi Founders, to have a BREAK and be FAST",
+                "hostedby": "Founders at Breakfast",
+                "date": "Sat, Mar 16",
+                "time": "9:00 AM IST",
+                "ticket": "free",
+                "image": "/src/assets/meet1.webp"
+            },
+
+            {
+                "label": "Delhi Founders, to have a BREAK and be FAST",
+                "hostedby": "Founders at Breakfast",
+                "date": "Sat, Mar 16",
+                "time": "9:00 AM IST",
+                "ticket": "free",
+                "image": "/src/assets/meet1.webp"
+            },
+
+            {
+                "label": "Delhi Founders, to have a BREAK and be FAST",
+                "hostedby": "Founders at Breakfast",
+                "date": "Sat, Mar 16",
+                "time": "9:00 AM IST",
+                "ticket": "free",
+                "image": "/src/assets/meet1.webp"
+            }
+        ]
+    },
+
+    "onlineEvents": {
+        "title": "Upcoming online events",
+        "events": [
+            {
+                "label": "Freelancer Roundtable",
+                "hostedby": "Founders at Breakfast",
+                "date": "Sat, Mar 16",
+                "time": "9:00 AM IST",
+                "ticket": "free",
+                "image": "/src/assets/onlineMeet.webp"
+            },
+
+            {
+                "label": "Freelancer Roundtable",
+                "hostedby": "Founders at Breakfast",
+                "date": "Sat, Mar 16",
+                "time": "9:00 AM IST",
+                "ticket": "free",
+                "image": "/src/assets/onlineMeet.webp"
+            },
+
+            {
+                "label": "Freelancer Roundtable",
+                "hostedby": "Founders at Breakfast",
+                "date": "Sat, Mar 16",
+                "time": "9:00 AM IST",
+                "ticket": "free",
+                "image": "/src/assets/onlineMeet.webp"
+            },
+
+            {
+                "label": "Freelancer Roundtable",
+                "hostedby": "Founders at Breakfast",
+                "date": "Sat, Mar 16",
+                "time": "9:00 AM IST",
+                "ticket": "free",
+                "image": "/src/assets/onlineMeet.webp"
+            }
+        ]
     }
 }

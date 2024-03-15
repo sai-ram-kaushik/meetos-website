@@ -1,5 +1,9 @@
 import React from "react";
 import Button from "../components/Button";
+import data from "../data/landing-page.json";
+import UpcomingEvents from "./UpcomingEvents";
+import OnlineEvents from "./OnlineEvents";
+
 const HomePage = ({ homePage }) => {
     const { title, content, buttonTitle, image } = homePage;
     return (
@@ -10,6 +14,9 @@ const HomePage = ({ homePage }) => {
                 <Button title={buttonTitle} />
                 <img src={image} alt="meeting-vector" />
             </div>
+
+            <UpcomingEvents UpcomingEvents={data.upcomingEvents} />
+            <OnlineEvents onlineEvents={data.onlineEvents} />
         </div>
     );
 };

@@ -39,6 +39,10 @@ html {
         @apply text-xl lg:text-2xl xl:text-3xl font-heading font-bold;
     }
 
+    h4 {
+        @apply text-xl font-heading;
+    }
+
     p {
         @apply text-lg;
     }
